@@ -23,7 +23,7 @@ npm run start-server
 This command begins the server running it on the default port of 3000. You can access the site at [localhost:3000](http://localhost:3000)
 
 
-### Additional Information
+## Additional Information
 By default the server runs on port 3000. If you would like to change the defaultl port an environmental variable must be used.
 Create a new file in the root of the project name .env or alternatively use this command in the terminal:
 ```sh
